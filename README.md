@@ -1,4 +1,4 @@
-# Happy HHolidays 2022
+# Happy Holidays 2022
 
 ## Table of Contents
 

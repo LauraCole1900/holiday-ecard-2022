@@ -1,0 +1,16 @@
+:root {
+  --warm-white: #fff6dd;
+  --header-font: 'Inspiration', cursive;
+}
+
+h1 {
+  color: var(--warm-white);
+  font-size: 10rem;
+  font-weight: 400;
+  font-family: var(--header-font);
+}
+
+.centered {
+  text-align: center;
+  margin: 2rem;
+}
