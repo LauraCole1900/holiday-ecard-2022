@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/holiday-ecard-2022/static/css/main.352af9d7.css",
-    "main.js": "/holiday-ecard-2022/static/js/main.0f6d3f88.js",
+    "main.css": "/holiday-ecard-2022/static/css/main.40f49f8d.css",
+    "main.js": "/holiday-ecard-2022/static/js/main.8ffc8e91.js",
     "static/js/787.2bf3dfda.chunk.js": "/holiday-ecard-2022/static/js/787.2bf3dfda.chunk.js",
     "index.html": "/holiday-ecard-2022/index.html",
-    "main.352af9d7.css.map": "/holiday-ecard-2022/static/css/main.352af9d7.css.map",
-    "main.0f6d3f88.js.map": "/holiday-ecard-2022/static/js/main.0f6d3f88.js.map",
+    "main.40f49f8d.css.map": "/holiday-ecard-2022/static/css/main.40f49f8d.css.map",
+    "main.8ffc8e91.js.map": "/holiday-ecard-2022/static/js/main.8ffc8e91.js.map",
     "787.2bf3dfda.chunk.js.map": "/holiday-ecard-2022/static/js/787.2bf3dfda.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.352af9d7.css",
-    "static/js/main.0f6d3f88.js"
+    "static/css/main.40f49f8d.css",
+    "static/js/main.8ffc8e91.js"
   ]
 }
