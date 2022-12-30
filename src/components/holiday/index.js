@@ -15,7 +15,7 @@ const Holiday = () => {
       <Row>
         <Col sm={{ span: 8, offset: 2 }}>
           <Row className="centered videoEmbed">
-            <VideoEmbed src="https://youtube.com/embed/#" title="Auld Lang Syne" />
+            <VideoEmbed src="https://youtube.com/embed/oMWjdqUibPA" title="Auld Lang Syne" />
           </Row>
         </Col>
       </Row>

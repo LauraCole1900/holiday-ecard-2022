@@ -20,12 +20,12 @@ This is a simple little React-based "Happy Holidays" e-card.
 
 ## Links
 
-[Deployed application on GitHub Pages](https://lauracole1900.github.io/holiday-ecard-2022/) NOT DEPLOYED YET
+[Deployed application on GitHub Pages](https://lauracole1900.github.io/holiday-ecard-2022/)
 
 ## Screenshot
 
 Happy Holidays:
-![Happy holidays](images/#.png)
+![Happy holidays](images/screenshot.png)
 
 ## Installation Instructions
 
